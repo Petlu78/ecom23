@@ -8,7 +8,7 @@ body{
 }
 
 header{
-    background-image: url(header\ background\ image.png);
+    background-image:url("../images/header background image.png");
     width: 1440px;
     height: 655px;
     display: flex;
@@ -54,7 +54,7 @@ h1{
 .barn1{
     width: 610px;
     height: 360px;
-    background-image: url(solglasögon.jpg);
+    background-image:url("../images/solglasögon.jpg");
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
