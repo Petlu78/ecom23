@@ -1,0 +1,194 @@
+* {
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+}
+body{
+    background-color: #020b15;
+    margin-bottom: 220px;
+}
+
+header{
+    background-image: url(header\ background\ image.png);
+    width: 1440px;
+    height: 655px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{ 
+        font-family: "Italiana", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 113.09px;
+    color: #fff;
+    
+}
+.undermittnamn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end;
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    font-style: italic;
+
+}
+.parent {
+    width: 1220px;
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.barn1{
+    width: 610px;
+    height: 360px;
+    background-image: url(solglasögon.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    color: #080808;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.barn2{
+    width: 610px;
+    height: 360px;
+    background-color: #090808;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.parent2{
+    width: 1220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    height: 1000px;
+    margin-left: 110px;
+   }
+   .barnet{
+    width: 1220px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    height: 201px;
+   }
+
+.h2{
+    width: 1220px;
+    height: 201px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    color: #080808;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.reflektionen{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #080808;
+
+}
+
+
+
+
+footer{
+    width: 1220px;
+    height: 373px;
+    background-color: #090808;
+    margin-left: 110px;
+    margin-right: 110px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    
+   
+
+      
+
+}
+.Tack{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    color: #fff;
+    position: absolute;
+    top: 2216px;
+    left: 352px;
+    
+
+}
+.knappar{
+    
+    background-color: #090808;
+    border: 0;
+    flex-direction: row;
+    align-self: flex-end;
+    display: flex;
+    position:absolute;
+    top: 2202px;
+    left:880px;
+}
+button{
+    border: 0;
+    background-color: #090808;
+}
+
+.gjordav{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    top: 2492px;
+    left: 640px;
+}
+main{
+    max-width: 1220px;
+}
+.heart{
+    color: red;
+}
+
+
+
+
+  
